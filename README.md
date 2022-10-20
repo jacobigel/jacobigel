@@ -15,6 +15,7 @@
 ## Professional Links
 - [LinkedIn](https://www.linkedin.com/in/jacobigel/ "LinkedIn")
 - [Handshake](https://miamioh.joinhandshake.com/stu/users/12667221 "Handshake")
+-[embed]file:///Users/jacobigel/Desktop/Work%20Related/JacobJIgel_Resume2022F-O.pdf[/embed]
 
 ## figure out
 - 👋 Hi, I’m @jacobigel
@@ -23,7 +24,3 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-jacobigel/jacobigel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
