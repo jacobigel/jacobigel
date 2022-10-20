@@ -15,7 +15,7 @@
 ## Professional Links
 - [LinkedIn](https://www.linkedin.com/in/jacobigel/ "LinkedIn")
 - [Handshake](https://miamioh.joinhandshake.com/stu/users/12667221 "Handshake")
--[embed]file:///Users/jacobigel/Desktop/Work%20Related/JacobJIgel_Resume2022F-O.pdf[/embed]
+
 
 ## figure out
 - 👋 Hi, I’m @jacobigel
