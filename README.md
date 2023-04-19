@@ -1,4 +1,4 @@
-#💫 About Me:
+# 💫 About Me:
 
 Hi! My name is Jacob Igel and I am a new graduate of Miami University's Class of 2023. I majored in Information Systems and Business Analytics with a Computer Science Minor. 
 
