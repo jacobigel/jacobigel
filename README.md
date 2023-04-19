@@ -1,6 +1,16 @@
-# 💫 About Me:
-Miami University | Farmer School of Business | Class of 2023<br><br>Information Systems and Business Analytics Major | Computer Science Minor<br><br>Phi Mu Alpha | Tau Beta Sigma | MUMB Drumline
+💫 About Me:
 
+Hi! My name is Jacob Igel and I am a new graduate of Miami University's Class of 2023. I majored in Information Systems and Business Analytics with a Computer Science Minor. 
+
+With my education, I have learned a plethora of skills in languages like R, Python, Java, JavaScript, and HTML/CSS. I love learning about new and innovative techniques and I cannot wait to get connected with you to learn more!
+
+I have also served as a executive member for my Social Fraternity Phi Mu Alpha (Membership Educator), my Co-Ed Service Sorority Tau Beta Sigma (Vice President), and for the Miami University Marching Band Drumline (Section Leader). 
+
+Currently open to work for titles such as:
+- Business Analyst
+- Data Scientist
+- Software Engineer
+- Other related field
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jacobigel/) 
