@@ -2,9 +2,9 @@
 
 Hi! My name is Jacob Igel and I am a recent graduate of Miami University's Class of 2023. I majored in Information Systems and Business Analytics with a Minor in Computer Science! 
 
-With my education, I have learned a plethora of skills in languages like R, Python, Java, JavaScript, and HTML/CSS. I love learning about new and innovative techniques and I cannot wait to get connected with you to learn more!
+With my education, I have learned many skills in languages like R, Python, Java, JavaScript, and HTML/CSS. I love learning about new and innovative techniques and cannot wait to connect with you to learn more!
 
-I have also served as a executive member for my Social Fraternity Phi Mu Alpha (Membership Educator), my Co-Ed Service Sorority Tau Beta Sigma (Vice President), and for the Miami University Marching Band Drumline (Section Leader). 
+I have also served as an executive member of my Social Fraternity Phi Mu Alpha (Membership Educator), my Co-Ed Service Sorority Tau Beta Sigma (Vice President), and the Miami University Marching Band Drumline (Section Leader). 
 
 Currently open to work!
 
