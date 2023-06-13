@@ -8,6 +8,8 @@ I have also served as an executive member of my Social Fraternity Phi Mu Alpha (
 
 Currently open to work!
 
+[Here is a link to my most current resume!](https://github.com/jacobigel/jacobigel/blob/main/JacobJIgel_Resume2023.pdf)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacobigel/) 
 
